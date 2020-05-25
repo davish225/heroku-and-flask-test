@@ -3,9 +3,3 @@ body{
     font-family: sans-serif;
 
 }
-
-table, th, td {
-    border-collapse: collapse;
-    border-width: 10px;
-    border-style: solid;
-}
