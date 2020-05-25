@@ -1,0 +1,1 @@
+web: gunicorn app:simple_db_test
